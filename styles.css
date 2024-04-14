@@ -1,0 +1,28 @@
+body {
+    background-color: #2E3440;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1,
+ul{
+    color: white;
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    line-height: 28px;
+}
+
+a:visited {
+    color: #D8DEE9;
+}
+
+
+
+a:hover {
+    color: #5E81AC;
+}
